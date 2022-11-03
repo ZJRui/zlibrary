@@ -5,3 +5,6 @@ https://github.com/theeemanuel/library/blob/13454526bce7429a9597f1154abfc50347a0
 
 
 https://github.com/PriestlyAdejo/library-management-system/blob/47a8bf7197652d28e637a525c82087aa742d081e/library-management-system/enums/data_and_scrapings/scripts/scrape_book_categories.py
+
+
+https://github.com/hassamrajpoot/scraping-and-automation-examples-python/blob/98db3e4c270fc4ef20d33b2a3499d2aa3cc76bc0/Z%20library%20scraper%20example/zlibrary_scraper.py
