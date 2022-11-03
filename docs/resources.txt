@@ -2,3 +2,6 @@ https://github.com/CapitenASA/search-engine-/blob/fc9986de0a21b01c1c8e342a9c4c8c
 
 
 https://github.com/theeemanuel/library/blob/13454526bce7429a9597f1154abfc50347a076c7/books/download.py
+
+
+https://github.com/PriestlyAdejo/library-management-system/blob/47a8bf7197652d28e637a525c82087aa742d081e/library-management-system/enums/data_and_scrapings/scripts/scrape_book_categories.py
