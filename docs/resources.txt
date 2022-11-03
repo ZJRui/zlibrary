@@ -1,1 +1,4 @@
 https://github.com/CapitenASA/search-engine-/blob/fc9986de0a21b01c1c8e342a9c4c8c6b96cc7ea2/searx/engines/zlibrary.py
+
+
+https://github.com/theeemanuel/library/blob/13454526bce7429a9597f1154abfc50347a076c7/books/download.py
